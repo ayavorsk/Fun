@@ -31,3 +31,4 @@
 *.out
 *.app
 theory_of_probability/.DS_Store
+.DS_Store
